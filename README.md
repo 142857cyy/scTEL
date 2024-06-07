@@ -15,7 +15,7 @@ It is recommended the user proceeds as follows.
 
 ## Directory
 
-- `data` stores the datasets
+- `Data` stores the datasets
 - `scTEL` contains the main script of scTEL
 - `test` contains the testing script of scTEL on the datasets in the manuscript and running script of baseline methods. 
 
