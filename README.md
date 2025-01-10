@@ -1,6 +1,7 @@
 # scTEL reproducibility
 
 This repository contains the code to reproduce the analyses performed in the manuscript "scTEL: A Joint Analysis Framework of CITE-seq and scRNA-seq Using Transformer".
+This repository contains the code to reproduce the analyses performed in the manuscript "A joint analysis of single cell transcriptomics and proteomics using transformer".
 
 <img src="/figures/scTEL.png" alt="scTEL" style="zoom: 10%;" />
 
